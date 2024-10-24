@@ -1,0 +1,13 @@
+
+@media only screen and (max-width: 576px){
+    /* marque font size @ <576px */
+    .marque-container {
+        font-size: 8rem;
+    }    
+
+    /* about code section margin */
+    #about {
+        margin: 10rem 0;
+    }
+}
+

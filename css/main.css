@@ -1,0 +1,75 @@
+/* Change the background color of the entire website */
+body {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+/* Change the font family and color of the headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #ffffff;
+}
+
+/* Change the color of the links */
+a {
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+/* Change font size of Hero line */
+.hero-line {
+    font-size: 12.5rem;
+}
+
+/* hero line asterix align */
+.star {
+    font-size: 10rem;
+    vertical-align: top;
+}
+
+/* marque styles */
+.marque-container {
+    font-size: 28rem;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 0;
+    overflow-x: hidden;
+}
+#marque-1 {
+    background: rgb(255, 0, 61);
+    background: -webkit-linear-gradient(40deg, rgba(255, 0, 60, 0.593) 0%, rgba(255, 160, 51, 0.523) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transform: translateX(28%);
+    -webkit-transform: translateX(28%);
+    -moz-transform: translateX(28%);
+    -ms-transform: translateX(28%);
+    -o-transform: translateX(28%);
+}
+#marque-2 {
+    opacity: 0.2;
+    transform: translate(-18%, -22%);
+    -webkit-transform: translate(-18%, -22%);
+    -moz-transform: translate(-18%, -22%);
+    -ms-transform: translate(-18%, -22%);
+    -o-transform: translate(-18%, -22%);
+}
+
+/* quote section styles */
+.quote {
+    font-family: 'Baskervville', serif;
+}
+
+/* Get In TOuch section styles */
+.getInTouch h1 {
+    font-family: 'Barlow Condensed', sans-serif;
+}
+.getInTouch {
+    font-family: 'Raleway', sans-serif;
+}
